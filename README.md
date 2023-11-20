@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @franklinamani
-- 👀 I’m interested in tech
-- 🌱 I’m currently learning computer science at McEwan University
-- 💞️ I’m looking to collaborate on fun cool tech project, which I know it anything related to tech
+- 👀 I’m interested in science and technology 
+- 🌱 I’m currently learning computer science at University of Alberta
+- 💞️ I’m looking to collaborate on fun cool tech project, and anything related to tech
 - 📫 How to reach me (by email) franklinsafari6@gmail.com
 
 <!---
